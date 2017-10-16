@@ -29,12 +29,12 @@ Our current test print has been printed in pla using CCTREE filament. Most of th
 
 * arm - 2x
 * arm_cap - 2x
-* arm_lock - 2x
-* arm_square_pin - 2x
-* arm_swivel - 2x
+* arm_lock - 2x (strong)
+* arm_square_pin - 2x (strong)
+* arm_swivel - 2x (strong)
 * back_cover - 1x
 * base - 1x
-* body - 1x
+* body - 1x (Print this upside down - support only from build plate)
 * eyes - 1x
 * face - 1x
 * frontcover - 1x
@@ -46,7 +46,8 @@ Our current test print has been printed in pla using CCTREE filament. Most of th
 * matrix_fastner - 2x
 * neck - 1x
 * neck_holder - 1x
-* neck_servo_holder - 2x
+* neck_servo_holder_1 - 1x (strong)
+* neck_servo_holder_2 - 2x (strong)
 
 ## Other Hardware: (Work in Progress)
 
