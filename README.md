@@ -2,16 +2,16 @@
 
 A collaboration between diyelectronics, Tom Van den Bon and Andries Smuts.
 
-diyelectronics (@diyelectonic) - http://www.diyelectronics.co.za
-Andries Smuts - 
-Tom Van den Bon (@geekc0der) - http://www.tomvandenbon.co.za
+* diyelectronics (@diyelectonic) - http://www.diyelectronics.co.za
+* Andries Smuts (@lam_armory) - https://www.facebook.com/pg/armoryLAM/about/
+* Tom Van den Bon (@geekc0der) - http://www.tomvandenbon.co.za
 
 # About 
 diybot is a personal robot that can be 3d printed. The goal is to create a robot character that can run around, a robot that looks cool and also has a way to portray emotion in a theatrical manner
 
 ![render1](images/3drender1.png?raw=true "render1")
-![render1](images/3drender1.png?raw=true "render1")
-![render1](images/3drender1.png?raw=true "render1")
+![render2](images/3drender2.png?raw=true "render2")
+![render3](images/3drender3.png?raw=true "render3")
 
 # Current Status
 The basic 3d design is finished and can be printed. We are currently working on the electronics and programming. 
