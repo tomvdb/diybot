@@ -1,22 +1,33 @@
+#Consider this project in "BETA" - Anything can and probably will change ;)
+
 # diybot - a 3d Printable Robot
-
-A collaboration between diyelectronics, Tom Van den Bon and Andries Smuts.
-
-* diyelectronics (@diyelectonic) - http://www.diyelectronics.co.za
-* Andries Smuts (@lam_armory) - https://www.facebook.com/pg/armoryLAM/about/
-* Tom Van den Bon (@geekc0der) - http://www.tomvandenbon.co.za
 
 # About 
 diybot is a personal robot that can be 3d printed. The goal is to create a robot character that can run around, a robot that looks cool and also has a way to portray emotion in a theatrical manner
+
+![photo1](images/diybot.jpg?raw=true "photo")
 
 ![render1](images/3drender1.png?raw=true "render1")
 ![render2](images/3drender2.png?raw=true "render2")
 ![render3](images/3drender3.png?raw=true "render3")
 
+
+A collaboration between diyelectronics, Tom Van den Bon and Andries Smuts.
+
+* diyelectronics (@diyelectonic) - http://www.diyelectronics.co.za
+* Andries Smuts (@lam_armory) - http://www.facebook.com/armoryLAM
+* Tom Van den Bon (@geekc0der) - http://www.tomvandenbon.co.za
+
+
 # Current Status
 The basic 3d design is finished and can be printed. We are currently working on the electronics and programming. 
 
-Consider this project in "BETA" - Anything can and probably will change ;)
+Coming soon:
+
+* Complete Non-Printed Parts List
+* Assembly Guide
+* Wiring Guide for Electronics
+* Source Code
 
 # Design
 diybot was designed in Fusion 360. You can find the original source here to make your own modifications to it: http://a360.co/2xKfoKy
@@ -47,7 +58,7 @@ Our current test print has been printed in pla using CCTREE filament. Most of th
 * neck - 1x
 * neck_holder - 1x
 * neck_servo_holder_1 - 1x (strong)
-* neck_servo_holder_2 - 2x (strong)
+* neck_servo_holder_2 - 1x (strong)
 
 ## Other Hardware: (Work in Progress)
 
